@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Smilez</title>
-    <link rel="stylesheet" href="styles2.css"> 
+    <link rel="stylesheet" href="./SMILE/css/styles2.css"> 
 </head>
 <body>
     <header class="primary header">
-        <a href="#"><img src="smile2.png"alt="Logo" width="200px"></a>
+        <a href="#"><img src="./SMILE/images/smile2.png"alt="Logo" width="200px"></a>
         <ul>
             <li><a href="About.php" target="_self">About</a></li>
             <li><a href="Resources.php" target="_self">Resources</a></li>
@@ -29,17 +29,17 @@
        </div>
        <div class="grid grid-3 text-center my-4">
         <div>
-            <img src="5.png" class="images">
+            <img src="./SMILE/images/5.png" class="images">
             <h3>Talk to us </h3>
             <p class="text-secondary">With smile you can always reach out and talk to one of our many online therapists.</p>
         </div>
         <div>
-            <img src="6.png" class="images">
+            <img src="./SMILE/images/6.png" class="images">
             <h3>Support</h3>
             <p class="text-secondary">You are guaranted to have our continued support and guidance whenever you need it.</p>
         </div>
         <div>
-            <img src="7.png" class="images">
+            <img src="./SMILE/images/7.png" class="images">
             <h3>Connect</h3>
             <p class="text-secondary">Keep calm and connect with other users on Smilez, and share your thoughts and feelings.</p>
         </div>

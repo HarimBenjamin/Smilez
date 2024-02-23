@@ -47,7 +47,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>Register Form</title>
-   <link rel="stylesheet" href="smile.css">
+   <link rel="stylesheet" href="./SMILE/css/smile.css">
 </head>
 <body>
    <header class="primary header">
@@ -65,7 +65,7 @@
          <p>Already have an account? <a href="Login_main.php">Login now</a></p>
       </form>
       <div class="sideimg">
-         <img src="9.png" alt="Share Image">
+         <img src="./SMILE/images/9.png" alt="Share Image">
       </div>
    </div>
 

@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
-    <link rel="stylesheet" href="styles2.css">
+    <link rel="stylesheet" href="./SMILE/css/styles2.css">
 </head>
 <body>
     <header class="primary header">
-        <a href="#"><img src="smile2.png"alt="Logo" width="200px"></a>
+        <a href="#"><img src="./SMILE/images/smile2.png"alt="Logo" width="200px"></a>
         <ul>
             <li><a href="Home.php" target="_self">Home</a></li>
 			<li><a href="About.php" target="_self">About</a></li>
