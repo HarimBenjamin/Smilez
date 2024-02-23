@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+    background-color: #EFEFE6;
+ }
+header {
+   top: 0; left: 0;
+   width:100%;
+   padding: 20px 100px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+header .logo {
+    position: relative;
+    max-width: 80px;
+ }
+ header ul {
+    position: relative;
+    display: flex;
+ }
+ header ul li {
+    list-style: none;
+ }
+ header ul li a {
+    display: inline-block;
+    color: #4a879d;
+    font-weight: 500;
+    margin-left: 40px;
+    text-decoration: none; 
+ }
+ header ul li a:hover{
+    color: #6da786;
+ }
+main {
+    padding: 20px 100px;
+    margin: 0;
+    text-decoration: none;
+}
+h1 {
+    color: #4a879d;
+}
+h3 {
+    color: #4a879d;
+}
+p {
+    color: #6da786;
+}
+div{
+	color: #6da786;
+}
+a{
+    color: #4a879d;	
+	position: relative;
+	text-decoration: none;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	padding: 0 10px;
+	
+}
+
+.contact-section{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.contact-info{
+	max-width: 500px;
+	line-height: 65px;
+	padding: 50px;
+	font-size: 18px;
+	
+}
+.contact-form{
+	max-width: 700PX;
+	margin-right: 50px; 
+}
+.contact-form,.contact-info{
+	flex: 1;
+
+}
+.contact-form h2{
+	text-align: center;
+	font-size: 35px;
+	text-transform: uppercase;
+	margin-bottom: 30px;
+	}
+.contact-form textarea{
+	text-align: center;
+	background:#9F9F9F;
+	color: #fff;
+	border: none;
+	width: 100%;
+	padding: 12px;
+	font-size: 15px;
+	min-height: 200px;
+	max-height: 400px;
+	resize: vertical;
+	border-radius: 5px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	margin-bottom: 20px;
+	opacity: 0.9;
+}
+.contact-form,.send-btn{
+	float: center;
+	background: #9F9F9F;
+	color:#4a879d; 
+	border: none;
+	width: 120px;
+	height: 40px;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border-radius: 5px;
+}
+button {
+    background-color:#4a879d;
+	color:black;
+	border-radius: 18px;
+	height: 40px;
+	width: 110px;
+	font-size: 15px;
+	border-color: black;
+	text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button:hover{
+    color: white;
+    background-color: #6da786;
+}
+.images {
+    width: 300px;
+}
+ul li {
+    color:#6da786;
+    margin: 10px;
+}
+footer {
+	    padding: 20px 100px;
+    margin: 0;
+    text-decoration: none;
+	
+}
+

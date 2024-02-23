@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About</title>
-    <link rel="stylesheet" href="styles2.css">
+    <link rel="stylesheet" href="./SMILE/css/styles2.css">
 </head>
 <body>
     <header class="primary header">
-        <a href="#"><img src="smile2.png"alt="Logo" width="200px"></a>
+        <a href="#"><img src="./SMILE/images/smile2.png"alt="Logo" width="200px"></a>
         <ul>
             <li><a href="Home.php" target="_self">Home</a></li>
             <li><a href="Resources.php" target="_self">Resources</a></li>
@@ -17,11 +17,11 @@
 		<a href="SignUp_Main.php" target="_blank"><button>Signup</button></a>
     </header>
     <main>
-        <h1>Welcome to <span>Smilez</span></h1>
+        <h1>Welcome to <span>Smilez</span>😊</h1>
         <p>"Amidst life's storms, remember: sinking doesn't mean you have to drown.<br>Seek help, find your lifeboat in the form of support, 
             and navigate toward mental wellness."</p>
         <video width="500" height="340" autoplay muted controls>
-            <source src="video1.mp4" type="video/mp4">
+            <source src="./SMILE/videos/video1.mp4" type="video/mp4">
           Your browser does not support the video tag.
           </video>
         <h1>Our Story</h1>
